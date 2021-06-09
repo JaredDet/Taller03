@@ -4,8 +4,10 @@ public class MemoriaRAM {
 	private int capacidadGB;
 	private int frecuenciaHz;
 
-	public MemoriaRAM(){
-
+	public MemoriaRAM(String marca, int capacidadGB, int frecuenciaHz){
+		this.marca = marca;
+		this.capacidadGB = capacidadGB;
+		this.frecuenciaHz = frecuenciaHz;
 	}
 	public String getMarca() {
 		return this.marca;
@@ -31,4 +33,10 @@ public class MemoriaRAM {
 		this.frecuenciaHz = frecuenciaHz;
 	}
 
+	@Override
+	public String toString() {
+		return "  Marca: " +  getMarca()+ "\n" +
+				"  Capacidad GB: " + getCapacidadGB() + "\n" +
+				"  Frecuencia Hz: " + getFrecuenciaHz() + "\n";
+	}
 }

@@ -28,4 +28,11 @@ public class Computador {
 	public void setMemoriaRAM(MemoriaRAM memoriaRAM) {
 		this.memoriaRAM = memoriaRAM;
 	}
+
+	@Override
+	public String toString() {
+		return "  Marca: " +  getMarca()+ "\n" +
+				"  Modelo: " + getModelo() + "\n" +
+				"  Memoria RAM: " + "\n" + memoriaRAM.toString() + "\n";
+	}
 }

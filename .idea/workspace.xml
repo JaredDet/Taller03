@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66769506-e248-4079-97dc-bed93461fd5c" name="Default Changelist" comment="Terminada la fase inicial del proyecto">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Computador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MemoriaRAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MemoriaRAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PrincipalTaller03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrincipalTaller03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/VentanaConsola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/VentanaConsola.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ProyectoAvance02" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tiDubfkB0ZQUhpHcartdbic2Sc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PrincipalTaller03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrincipalTaller03" />
+      <module name="Taller03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrincipalTaller03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66769506-e248-4079-97dc-bed93461fd5c" name="Default Changelist" comment="" />
+      <created>1623243241561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623243241561</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Proyecto inicial">
+      <created>1623243578668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623243578668</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit con imágenes y proyecto de VisualParadigm">
+      <created>1623243722029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623243722029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit con imágenes y proyecto de VisualParadigm">
+      <created>1623243942163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623243942163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Avance 02, listas las validaciones">
+      <created>1623245536300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623245536300</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto inicial" />
+    <MESSAGE value="Commit con imágenes y proyecto de VisualParadigm" />
+    <MESSAGE value="Avance 02, listas las validaciones" />
+    <MESSAGE value="Terminada la fase inicial del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminada la fase inicial del proyecto" />
+  </component>
+</project>
